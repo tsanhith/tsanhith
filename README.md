@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://portfolio-roan-nine-f5mzn59he8.vercel.app/">Sanhith</a></h2>.
+<h2>Hey 👋, I'm <a href="https://portfolio-roan-nine-f5mzn59he8.vercel.app/">Sanhith</a></h2>
 
 <p>I'm a final-year <strong>Data Science & AI student</strong> at IFHE Hyderabad. I build intelligent systems with a focus on <strong>Agentic AI</strong>, <strong>Computer Vision</strong>, and the mathematical foundations of Machine Learning.</p>
 
