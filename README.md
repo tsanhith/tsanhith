@@ -41,7 +41,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tsanhith&show_icons=true&theme=dark" alt="Sanhith's GitHub stats" />
 
-<p>⚔️ <i>Catching up on One Piece when I'm not training models.</i> ⚔️</p>
+<p>⚔️ <i>Catching up on One Piece when I'm not training models....!</i> ⚔️</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tsanhith&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
