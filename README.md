@@ -8,7 +8,6 @@
 <ul>
   <li>🎯 <strong>343 LeetCode problems solved</strong> (75.46% acceptance rate ) | <strong>247+ GitHub contributions</strong></li>
   <li>🏆 <strong>Smart India Hackathon 2024:</strong> Team Lead for AI-driven Traffic Management (Top 5%)</li>
-  <li>🚀 <strong>Currently building:</strong> <strong>Sync Space</strong>, an AI multi-agent system automating software deployment</li>
   <li>🔍 <strong>Recently shipped:</strong> <strong>Videntia</strong> - 4-agent agentic system for video understanding (63% latency reduction, 94% accuracy)</li>
   <li>🧠 <strong>Specialized in:</strong> Multi-agent orchestration (LangGraph), Hybrid RAG systems, Computer Vision pipelines</li>
   <li>🔬 <strong>Deep-dived into fundamentals:</strong> Built Neural Networks from scratch using NumPy, implemented SVD-based image compression</li>
